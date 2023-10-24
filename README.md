@@ -1,12 +1,12 @@
 # CATDOG Shoppingmall
-##### 상세 포트폴리오 : [notion 포트폴리오](https://www.notion.so/CATDOG-0a06084f4d9a4bb1be13afe1ba571e88)
-![image](https://github.com/fireChild9589/shoppingmall/assets/131581968/9f355006-1028-4116-a292-58a2cac8a99a)
 
+![image](https://github.com/fireChild9589/shoppingmall/assets/131581968/9f355006-1028-4116-a292-58a2cac8a99a)
 
 깔끔한 UI의 애완용품 쇼핑몰입니다.
 
 
 ## 프로젝트 소개
+##### 상세 포트폴리오 : [notion 포트폴리오](https://www.notion.so/CATDOG-0a06084f4d9a4bb1be13afe1ba571e88)
 일반적인 쇼핑몰에서 제공하는 기능을 구현한 애완용품 쇼핑몰입니다.
 
 
